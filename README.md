@@ -15,12 +15,3 @@ Depois execute os comandos
 ### `npm install`
 ### `npm start`
 
-Após isso navegue até a pasta
-
-### `cd test-natura-frontend`
-
-Depois execute os comandos 
-
-### `npm install`
-### `npm start`
-
